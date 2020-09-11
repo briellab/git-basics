@@ -1,2 +1,2 @@
-# git-basics
+# gitbasics
 Learning the git basics
